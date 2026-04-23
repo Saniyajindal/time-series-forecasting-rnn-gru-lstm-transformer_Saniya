@@ -136,7 +136,3 @@ This project demonstrates how different models handle time-series data and highl
 
 ---
 
-## 🔗 Submission
-
-* GitHub Repository: [Add Link]
-* YouTube Explanation: [Add Link]
